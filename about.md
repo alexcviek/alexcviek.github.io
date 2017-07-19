@@ -1,7 +1,0 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-Check out my [Github](https://github.com/alexcviek) or send me [email](mailto:a.i.cwiek@gmail.com)
