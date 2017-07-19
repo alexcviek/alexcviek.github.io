@@ -27,6 +27,12 @@ social:
     url: https://github.com/alexcviek
     font: github
 
+project:
+  - title: Epic Slap Battle
+  - desc: My first project at WDI
+  - title: Aurora Borealis
+  - desc: My second project at WDI
+
 # Build settings
 markdown: kramdown
 permalink: pretty
