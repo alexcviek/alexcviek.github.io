@@ -60,6 +60,13 @@ a:focus {
 .light {
     font-weight: 400;
 }
+.profile-pic{
+  border-radius: 50%;
+  border: 2px solid #fff;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 50px;
+}
 
 .navbar-custom {
     margin-bottom: 0;
