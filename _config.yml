@@ -7,7 +7,7 @@ description: "Very talented full stack developer. Pls gib job."
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#fff'
 
 # Footer settings
 footer: Alex Cwiek
