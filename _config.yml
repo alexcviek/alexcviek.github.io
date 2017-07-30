@@ -2,7 +2,7 @@
 title: Alex Cwiek
 email: a.i.cwiek@gmail.com
 url: https://example.github.io
-description: "Very talented full stack developer. Pls gib job."
+description: "Full stack web developer"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -29,9 +29,17 @@ social:
 
 project:
   - title: Epic Slap Battle
-  - desc: My first project at WDI
+    technologies: HTML5 | SCSS | jQuery | JavaScript | CSS Animations | Git | GitHub | Gulp
+    desc: Single player game made using Front- End technologies. Game logic designed by me and put in motion by jQuery, with a bit of CSS Animations. Instead of sophisticated weapons, you can just slap the opponent.
+    image: /img/project1.png
+    github: https://github.com/alexcviek/project-0
+    heroku: http://safe-ravine-55690.herokuapp.com/
   - title: Aurora Borealis
-  - desc: My second project at WDI
+    technologies: HTML5 | SCSS | jQuery | JavaScript | CSS Animations | Git | GitHub | Gulp | NPM | Yarn | JSON | AJAX | NodeJS | GoogleMaps API | Facebook oAuth | MongoDB | Express.js | Bcrypt | AWS Image Upload
+    desc: Express.js CRUD app. Get the most up to date forecast for Aurora Borealis occurrence, based on chosen location, thanks to API from ACE Spacecraft and Google Maps API. If you prefer not to go outside - there is a superb, Instagram - like part of the page made with AWS Image Upload, so you can still see auroras without freezing off outside.
+    image: /img/project1.png
+    github: https://github.com/alexcviek/project-1
+    heroku: https://peaceful-peak-78688.herokuapp.com/
 
 # Build settings
 markdown: kramdown

@@ -60,6 +60,9 @@ a:focus {
 .light {
     font-weight: 400;
 }
+.skillset{
+  background-color: #fff;
+}
 .profile-pic{
   border-radius: 50%;
   border: 2px solid #fff;

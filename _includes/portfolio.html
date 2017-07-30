@@ -3,11 +3,20 @@
   <div class="download-section">
     <div class="container">
       <div class="col-lg-8 col-lg-offset-2">
-        <h2>My totally awesome portfolio</h2>
+        <h2>Portfolio</h2>
+        <div class="row">
           {% for project in site.project %}
+          <div class="col-lg-8">
             <h4>{{ project.title }}</h4>
+            <h6>Technologies used: {{ project.technologies }}</h6>
             <p>{{ project.desc }}</p>
+            <h6><a href="{{ project.github }}" target="_blank">See me on GitHub</a> && <a href="{{ project.heroku }}" target="_blank">See me on Heroku</a></h6>
+          </div>
+          <div class="col-lg-4">
+            <img class="img-responsive" src="{{ project.image }}" alt="{{ project.image }}">
+          </div>
           {% endfor %}
+        </div>
       </div>
     </div>
   </div>
