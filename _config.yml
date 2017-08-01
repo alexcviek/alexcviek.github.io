@@ -40,13 +40,13 @@ project:
   - title: Clowder
     technologies: HTML5 | SCSS | JavaScript | AngularJS | CSS Animations | Git | GitHub | Gulp | NPM | Yarn | JSON | AJAX | NodeJS | Google Maps API | Meetup API | Facebook oAuth | GitHub oAuth | MongoDB | Express.js | Bcrypt | JSON Web Token | Chai and Mocha Testing | AWS Image Upload
     desc: RESTful app with Express.js backend, MongoDB database and AngularJS front end, built as a group project. Based on the idea of sharing and volunteering within your community, Clowder allows users to donate and share unused and excess food and goods for free amongst their community and other users of the app. My main priorities were developing Express.js backend, authentication and Google Maps API, but overall I was involved in all parts of the project.
-    image: /img/project1.png
+    image: /img/project3.png
     github: https://github.com/alexcviek/project-2-group
     heroku: https://team-sausage.herokuapp.com/
   - title: Adventurefy
     technologies: HTML5 | CSS3 | JavaScript | AngularJS | Git | GitHub | Gulp | Yarn | Bower | JSON | Ruby on Rails 5 | Google Maps API | Facebook oAuth | PostgreSQL | Bcrypt | JSON Web Token | AWS Image Upload
     desc: Final Project built in a team of two. Adventurefy is a Rails application with PostgreSQL database, helping you to find companion for your travels. Apart from signing up for trips and making plans, the app also returns handy countries fact, like weather, budget and country info, thanks to requests made to external APIs. Developing this app helped me to get comfortable with AngularJS, as I was responsible mostly for the front end, styling the app in CSS and Google Maps API.
-    image: /img/project1.png
+    image: /img/project4.png
     github: https://github.com/alexcviek/project-2-group
     heroku: https://adventurefy.herokuapp.com/
 
