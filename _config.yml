@@ -47,7 +47,7 @@ project:
     technologies: HTML5 | CSS3 | JavaScript | AngularJS | Git | GitHub | Gulp | Yarn | Bower | JSON | Ruby on Rails 5 | Google Maps API | Facebook oAuth | PostgreSQL | Bcrypt | JSON Web Token | AWS Image Upload
     desc: Final Project built in a team of two. Adventurefy is a Rails application with PostgreSQL database, helping you to find a companion for your travels. Apart from signing up for trips and making plans, the app also returns handy factual information about certain countries such as weather, budget and country info, thanks to requests made to external APIs. Developing this app helped me to get comfortable with AngularJS, as I was responsible mostly for the Front End, styling the app in CSS and Google Maps API.
     image: /img/project4.png
-    github: https://github.com/alexcviek/project-2-group
+    github: https://github.com/alexcviek/project-3-api
     heroku: https://adventurefy.herokuapp.com/
 
 # Build settings
