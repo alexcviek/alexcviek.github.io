@@ -49,6 +49,12 @@ project:
     image: /img/project4.png
     github: https://github.com/alexcviek/project-3-api
     heroku: https://adventurefy.herokuapp.com/
+  - title: teamo
+    technologies: HTML5 | CSS3 | Framework 7 | JavaScript | Backbone.js | Underscore.js | Marionette.js | Eclipse
+    desc: Currently I am working as a Junior Front End Developer at Sportplan Ltd in London, where I code alongside the CEO and develop the Front End side of the new features of teamo app, that makes life easier for coaches and players.
+    image: /img/project4.png
+    github: https://web.teamo.chat/
+    heroku: https://teamo.chat/
 
 # Build settings
 markdown: kramdown
